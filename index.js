@@ -11,7 +11,7 @@ const mongoose = require('mongoose');
 const PORT = 1200;
 
 // MongoDB connection string pointing to db named 'G3A4'
-const dbURL = "mongodb+srv://admin:Underling666@cluster0.zkxltog.mongodb.net/G3A4";
+const dbURL = "mongodb+srv://admin:Underling999@cluster0.zkxltog.mongodb.net/G3A4";
 
 // connect to MongoDB
 mongoose.connect(dbURL,
